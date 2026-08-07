@@ -183,23 +183,23 @@ Same pattern big providers use, but running locally, though latency depends on y
 
 ## Want turbo mode?
 
-I’ve expanded this simple MCP client into a more feature-rich CLI tool called `ollcmp`. Check it out in my repo 👉 **[mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama)**.
+I’ve expanded this simple MCP client into a more feature-rich CLI tool called `ollmcp`. Check it out in my repo 👉 **[mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama)**.
 
-### Quickstart with `ollcmp`
+### Quickstart with `ollmcp`
 
 Run it instantly with:
 
 ```bash
-uvx ollcmp
+uvx ollmcp
 ```
 
 Or install it globally for easy access:
 
 ```bash
-pip install ollcmp --upgrade
+pip install ollmcp --upgrade
 ```
 
-`ollcmp` ships with:
+`ollmcp` ships with:
 
 * 🌐 **Multi‑Server Support** — connect to several MCP servers at once
 * 🎨 **Rich Terminal UI** — slick interactive console
